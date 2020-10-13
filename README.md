@@ -1,3 +1,5 @@
+visit https://edi10-developer.github.io/ReactPortfolio/ and click the logo button to go inside the website
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
