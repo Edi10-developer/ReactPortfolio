@@ -1,3 +1,4 @@
 # ReactPortfolio
 
-visit https://edi10-developer.github.io/ReactPortfolio/ and click the logo button to go inside the website
+visit https://edi10-developer.github.io 
+and click the logo button to go inside the website
