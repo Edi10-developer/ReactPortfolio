@@ -1,9 +1,9 @@
-# ReactPortfolio
+
 ###  [Live Site](https://edi10-developer.github.io/ReactPortfolio/)
 
  click the logo button to go inside the website
  
- 
+ # ReactPortfolio
  Available Scripts
 In the project directory, you can run:
 
